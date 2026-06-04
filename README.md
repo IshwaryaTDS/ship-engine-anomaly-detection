@@ -111,3 +111,5 @@ Early disease detection
 Medical device monitoring
 Healthcare operational analytics
 Clinical risk identification
+Molecules with unusual properties
+Novel compounds outside the normal chemical space
